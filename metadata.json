@@ -1,0 +1,9 @@
+
+{
+  "name": "LocalLens - AI City Story Explorer",
+  "description": "An AI-powered urban exploration app that uses your camera to identify landmarks and instantly reveal their stories, reviews, and historical secrets.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
